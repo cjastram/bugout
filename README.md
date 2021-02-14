@@ -1,3 +1,23 @@
+<p>This is a forked repository, the goal here is to extend the existing functionality to create a peer-to-peer in-browser forum system, similar in structure to the old UseNet discussion groups.</p>
+
+<p>Goals:</p>
+<ul>
+	<li>Peer-to-peer without central hosting</lI>
+	<li>Standard tree format of posts</li>
+	<li>Persistent storage supplied by participants</li>
+</ul>
+
+<p>Weaknesses:</p>
+<ul>
+	<li>Participants are open to discovery via IP tracking, therefore forum is pseudononymous at best.</li>
+	<li>Forum system allows direct-from-public access into browser, therefore inherently insecure.</li>
+	<li>Formating and style will be enforced to small quantities of text and simple markup to try to improve security but this enforcement will be client-side as submissions cannot be screened/vetted/verified.</li>
+	<li>Per the above, <b>participation is strictly at your own risk endeavor</b>.</li>
+</ul>
+
+<p><small>Below this line is content from original code by chr15m.</small></p>
+<hr/>
+
 <p align="center"><img src="docs/bugout-logo.svg"/></p>
 
 Browser-to-browser networking built on [WebTorrent](https://webtorrent.io/). Web service bug-out bag. **[Messageboard demo](https://chr15m.github.io/bugout/examples/messageboard.html)**. **[Bugout demo](https://chr15m.github.io/bugout)**.
