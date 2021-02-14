@@ -12,7 +12,7 @@
 	<li>Participants are open to discovery via IP tracking, therefore forum is pseudononymous at best.</li>
 	<li>Forum system allows direct-from-public access into browser, therefore inherently insecure.</li>
 	<li>Formating and style will be enforced to small quantities of text and simple markup to try to improve security but this enforcement will be client-side as submissions cannot be screened/vetted/verified.</li>
-	<li>Per the above, <b>participation is strictly at your own risk endeavor</b>.</li>
+	<li>Per the above, <b>participation is strictly at your own risk</b>.</li>
 </ul>
 
 <p><small>Below this line is content from original code by chr15m.</small></p>
