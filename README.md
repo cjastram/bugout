@@ -15,6 +15,8 @@
 	<li>Per the above, <b>participation is strictly at your own risk</b>.</li>
 </ul>
 
+<p><a href="https://cjastram.github.io/bugout/examples/mb.html">Enter the Message Board</a> (DEMO ONLY)</p>
+
 <p><small>Below this line is content from original code by chr15m.</small></p>
 <hr/>
 
